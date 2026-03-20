@@ -4,14 +4,14 @@ const license$ = {
     key: "88888888-8888-8888-8888-888888888888",
     active: true,
     beta: false,
-    name: "Alam",
-    email: "alam@gmail.com",
-    limit: 3,
+    name: "InjectX-Team",
+    email: "injectxteam@gmail.com",
+    limit: 999,
     usage: 1,
     instance: {
         id: "fca4add6-fc53-51da-826e-1b67f43f7f3b",
-        name: "alam",
-        model: "alam.com"
+        name: "InjectX",
+        model: "team@injectx.com"
     }
 };
 
